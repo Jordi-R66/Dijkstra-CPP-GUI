@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+*.elf
+
+# Dataset files
+# France.json
+# *.csv
+
+# Other python scripts
+Algo.py
+Algo_Copie.py
