@@ -27,10 +27,10 @@
 *.lib
 
 # Executables
-*.exe
+.exe
 *.out
 *.app
-*.elf
+.elf
 
 # Dataset files
 # France.json
@@ -39,3 +39,9 @@
 # Other python scripts
 Algo.py
 Algo_Copie.py
+
+# debug directory
+debug/*
+
+# Others
+remote_compile.sh
